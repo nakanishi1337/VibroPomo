@@ -1,0 +1,26 @@
+{
+  // General
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  // Dart/Flutter
+  "dart.runPubGetOnPubspecChanges": "always",
+  "dart.lineLength": 100,
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "dart.previewFlutterUiGuides": true,
+  "dart.flutterGutterIcons": true,
+  "dart.analysisServerHeapSize": 2048,
+  "[dart]": {
+    "editor.formatOnSave": true
+  },
+  // Kotlin (formatting depends on installed formatter in extension)
+  "[kotlin]": {
+    "editor.formatOnSave": true
+  },
+  // Exclude build outputs from watchers
+  "files.watcherExclude": {
+    "**/build/**": true,
+    "**/.gradle/**": true,
+    "**/.dart_tool/**": true
+  }
+}
