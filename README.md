@@ -1,4 +1,4 @@
-# VibroPomo (Vibration + Pomodoro method)
+# VibroPomo (Vibration + Pomodoro timer)
 
 バイブレーション（振動）のみで通知する、シンプルなポモドーロタイマーです。
 職場やカフェなど、周囲に人がいる環境でも、音を鳴らさずに使用できます。
